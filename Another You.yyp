@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "68b3a7b9-b505-4089-bd8f-1f8438d65fe0",
+            "Value": {
+                "id": "3a13938c-9914-4579-8617-c29004aea022",
+                "resourcePath": "objects\\obj_parkourist\\obj_parkourist.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "747c64ae-fdee-4879-bf81-313c681f366a",
             "Value": {
                 "id": "6841b3f0-e440-493d-b28c-3d2f500b614f",
