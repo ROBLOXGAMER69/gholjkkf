@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "8296f7ce-5c91-4d5d-8d8e-4b5af2589d80",
+            "Value": {
+                "id": "179e2bc5-d50d-424c-974c-2f7294002fd0",
+                "resourcePath": "sprites\\spr_parkourist_right\\spr_parkourist_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "956d8af7-d650-4644-8398-8598637e00e3",
             "Value": {
                 "id": "e46d147a-f15f-40c4-ae44-a81deed6bd35",
