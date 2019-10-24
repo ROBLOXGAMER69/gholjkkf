@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "d190c848-5d7e-42dc-84f0-156fbe5e1311",
+            "Value": {
+                "id": "79caec8d-8a9f-476c-b82b-3650343170f4",
+                "resourcePath": "fonts\\font_dark\\font_dark.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "f2a5e76b-03ed-4622-a50d-de7716ad6a35",
             "Value": {
                 "id": "749aee99-ee7f-4071-8e46-6efff0739ec9",
