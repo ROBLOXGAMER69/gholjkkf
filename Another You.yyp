@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1bd25be4-8b03-4640-bec9-2a672e617b51",
+            "Value": {
+                "id": "02890d44-bfd0-4f1b-b7d4-385cd2e4a470",
+                "resourcePath": "rooms\\rm_bedroom\\rm_bedroom.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2402b95e-3210-4278-a50d-a57b637db5e4",
             "Value": {
                 "id": "8870c9fd-e4dd-49fe-9697-ee622d82e1e8",
@@ -148,6 +156,14 @@
                 "id": "e3263ea9-b4fe-448b-a423-0f407126d4df",
                 "resourcePath": "views\\c32dd19b-66e9-417a-aaf4-186942530f12.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c6eac597-99c2-4f88-a95e-ad83277b3d72",
+            "Value": {
+                "id": "197dfee4-381c-46cd-88ce-3079f4e846c5",
+                "resourcePath": "sprites\\spr_parkourist_jump\\spr_parkourist_jump.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
