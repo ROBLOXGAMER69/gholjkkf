@@ -11,6 +11,7 @@ if (room == rm_start) {
 	}
 } else if (room == rm_street) {
 	if (change_alpha == true) {
+		draw_set_font(font_light);
 		alpha = 0;
 		frames = 0;
 	}
@@ -29,8 +30,9 @@ if (room == rm_start) {
 		}
 	}
 	
-	if (alpha == 0.8 && !going_down && obj_background.image_index != 4) {
-		obj_background.image_speed = 1;
+	if (alpha == 0.8 && !going_down && obj_street_background.image_index != 4) {
+		obj_street_background.image_speed = 1;
+		draw_set_font(font_dark);
 	}	
 	change_alpha = false;
 }
